@@ -1,5 +1,5 @@
 # Airbnb-Price-Prediction-Model
-In this machine learning project, the goal was to predict the price of Airbnb listings using two popular tree-based models: XGBoost and Random Forest
+In this machine learning project, the goal was to predict the price of Airbnb listings using two popular tree-based models: XGBoost and Random Forest 
 
 The first step was to collect and preprocess a large dataset of Airbnb listings, including various features such as location, amenities, and size. The data was then split into training and testing sets, with the training set used to train the models and the testing set used to evaluate their performance.
 
